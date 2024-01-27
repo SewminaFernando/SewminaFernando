@@ -18,7 +18,7 @@
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
 <p align="center">
-<a href="https://linkedin.com/in/sewmina fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sewmina fernando" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sewminafernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sewmina fernando" height="30" width="40" /></a>
 <a href="https://instagram.com/sewmina_fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sewmina_fernando" height="30" width="40" /></a>
 </p>
 
